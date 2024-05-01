@@ -1,4 +1,4 @@
-Here is quick guide to run the project.\
+Here is quick guide to run the project.
 # admin
 open the integrated terminal of admin folder and then run the following commands.\
 npm install\
